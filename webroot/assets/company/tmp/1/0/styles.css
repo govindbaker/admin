@@ -1,0 +1,5 @@
+#cc-wrap.cc-right {right: 20px;}
+			#cc-wrap {position: fixed;bottom: 0px;z-index: 99999999999;padding: 0px;margin: 0px;width: 300px;height: 0px;background: transparent;}
+			#cc-header{background-color:#000; color:#FFF; height:40px;font-size:30px;}
+			#cc-header a{color:#FFF;}
+			iframe#cc-iframe{border:none;height:180px;}
